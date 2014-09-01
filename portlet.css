@@ -1,0 +1,10 @@
+
+.plugin-gridster.smsFREE .front {
+  background: #FFFFFF url('smsFREE.jpg') center 10px;
+  background-size:   150px 150px;
+  background-repeat: no-repeat;
+}
+
+.plugin-gridster.smsFREE .back {
+  background: #FFFFFF;
+}

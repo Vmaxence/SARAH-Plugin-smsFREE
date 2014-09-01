@@ -1,0 +1,11 @@
+{
+  "modules" : { 
+    "smsFREE"  : {
+      "description": "Permet d'envoyer un sms avec FREE.",
+      "version" : "1.0",
+        "auteur" : "max",
+      "user": "empty",
+      "pass": "empty"
+    }
+  }
+}
